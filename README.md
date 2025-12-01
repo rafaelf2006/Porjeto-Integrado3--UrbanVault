@@ -2,7 +2,7 @@
 Opções de Estágio e Objetivos de Aprendizagem
 Objetivo Geral
 
-Inicializei um novo curso de WebDesign no FreeCodecCamp e outro curso de React na mesma plataforma.
+Inicializei um novo curso de WebDesign no Udemy e outro curso de React na mesma plataforma.
 
 Desenvolver competências criativas, técnicas e estratégicas nas áreas do design, comunicação e tecnologia.
 
