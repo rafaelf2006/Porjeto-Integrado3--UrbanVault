@@ -2,7 +2,7 @@
 Opções de Estágio e Objetivos de Aprendizagem
 Objetivo Geral
 
-Inicializei um novo curso de WebDesign no Udemy e outro curso de React na mesma plataforma.
+Alterei denovo o curso e estou a realizar outro na plataforma webflow.com, sinto que se encaixa mais no que procurava.
 
 Desenvolver competências criativas, técnicas e estratégicas nas áreas do design, comunicação e tecnologia.
 
